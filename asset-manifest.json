@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iTs-Mantrin.github.io/GoFood/static/css/main.c8a84c25.css",
+    "main.js": "/iTs-Mantrin.github.io/GoFood/static/js/main.f9a29127.js",
+    "static/js/787.690453fc.chunk.js": "/iTs-Mantrin.github.io/GoFood/static/js/787.690453fc.chunk.js",
+    "index.html": "/iTs-Mantrin.github.io/GoFood/index.html",
+    "main.c8a84c25.css.map": "/iTs-Mantrin.github.io/GoFood/static/css/main.c8a84c25.css.map",
+    "main.f9a29127.js.map": "/iTs-Mantrin.github.io/GoFood/static/js/main.f9a29127.js.map",
+    "787.690453fc.chunk.js.map": "/iTs-Mantrin.github.io/GoFood/static/js/787.690453fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a84c25.css",
+    "static/js/main.f9a29127.js"
+  ]
+}
